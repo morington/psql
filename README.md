@@ -3,7 +3,7 @@
 
 Статья - https://telegra.ph/Ispolzuem-PostgreSQL-bystro-i-legko-07-31
 
-Канал: t.me/dev_survival
+Канал: https://t.me/dev_survival
 
 # Базовое управление
 [Для Ubuntu видео установка](https://www.youtube.com/watch?v=kWUW3sMK0Mk)
