@@ -1,6 +1,8 @@
 # psql
 Заметки для PostgreSQL
+
 Статья - https://telegra.ph/Ispolzuem-PostgreSQL-bystro-i-legko-07-31
+
 Канал: t.me/dev_survival
 
 # Базовое управление
